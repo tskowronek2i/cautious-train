@@ -1,3 +1,4 @@
 szkolerfrnie
 3232
 3 linia v1
+Ta linia zawiera poprawkê HotFix dla nas
